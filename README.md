@@ -12,11 +12,10 @@
 
 ### Experiência
 
-- Escrituração fiscal e lançamento de notas fiscais
-- Apuração de impostos e conciliação contábil
-- Fechamento contábil e organização de livros fiscais
-
-Experiência construída na **Exatus Contabilidade**.
+- **Exatus Contabilidade** — escrituração fiscal, apuração de impostos, conciliação e fechamento
+  contábil, organização de livros fiscais.
+- **Suco Prat's** (Departamento Agrícola) — lançamentos contábeis e fiscais, registro de despesas e
+  custos, atendimento a administradores e gerentes do setor agrícola.
 
 ### Atualmente
 
