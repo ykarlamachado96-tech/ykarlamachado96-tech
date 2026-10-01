@@ -19,7 +19,7 @@
 
 ### Atualmente
 
-Na **UniFatecie**, colaborando no desenvolvimento do
+Na **UniFatecie**, desenvolvendo o
 [**unifatecie-atendimento-ia**](https://github.com/ykarlamachado96-tech/unifatecie-atendimento-ia) — uma
 plataforma de IA de triagem e autoatendimento para a Mensageria da instituição. Une a experiência de quem
 já viveu atendimento e processos do outro lado do balcão à construção do produto.
