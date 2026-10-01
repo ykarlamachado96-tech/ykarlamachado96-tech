@@ -1,13 +1,26 @@
+<div align="center">
+
 # Yanka Karla Machado
 
-Background na área contábil e fiscal — escrituração fiscal, apuração de impostos, conciliação e
-fechamento contábil — construído na Exatus Contabilidade.
+**Contabilidade e Atendimento** · UniFatecie
 
-Atualmente na UniFatecie, onde colabora no desenvolvimento do
-[unifatecie-atendimento-ia](https://github.com/ykarlamachado96-tech/unifatecie-atendimento-ia): uma
-plataforma de IA de triagem e autoatendimento para a Mensageria da instituição, unindo a experiência de
-quem já viveu atendimento e processos do outro lado do balcão à construção do produto.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanka-karla-machado-6083a0163/)
 
-## Contato
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/yanka-karla-machado-6083a0163/)
+---
+
+### Experiência
+
+- Escrituração fiscal e lançamento de notas fiscais
+- Apuração de impostos e conciliação contábil
+- Fechamento contábil e organização de livros fiscais
+
+Experiência construída na **Exatus Contabilidade**.
+
+### Atualmente
+
+Na **UniFatecie**, colaborando no desenvolvimento do
+[**unifatecie-atendimento-ia**](https://github.com/ykarlamachado96-tech/unifatecie-atendimento-ia) — uma
+plataforma de IA de triagem e autoatendimento para a Mensageria da instituição. Une a experiência de quem
+já viveu atendimento e processos do outro lado do balcão à construção do produto.
